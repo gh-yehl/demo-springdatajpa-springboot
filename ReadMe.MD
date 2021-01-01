@@ -1,14 +1,14 @@
 
 Demo Project - Integrate Spring Boot JPA and Alibaba Druid
 
-1 - Integrate Ali-Druid
+1 - Integrate Ali-Druid  
     1) 依赖
             <!-- https://mvnrepository.com/artifact/com.alibaba/druid-spring-boot-starter -->
             <dependency>
                 <groupId>com.alibaba</groupId>
                 <artifactId>druid-spring-boot-starter</artifactId>
                 <version>1.1.16</version>
-            </dependency>
+            </dependency>  
     2) 配置
         a: DruidConfig.Java
         b: Properties file
